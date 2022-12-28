@@ -1,7 +1,7 @@
 baseURL = "https://ChristianDjurhuus.github.io/DataStoryTelling/"
 languageCode = "en-us"
 title = "Data Story Telling"
-theme = "stack"
+theme = "hugo-theme-stack"
 
 
 [params]
@@ -18,5 +18,3 @@ theme = "stack"
     name = "LinkedIn"
     url = "https://www.linkedin.com/in/christian-djurhuus-08a7b1189?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BQANi4wArQQaEqT0f0uG0Ng%3D%3D"
 
-[[module.imports]]
-path = "github.com/CaiJimmy/hugo-theme-stack/v3"
